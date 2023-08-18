@@ -2,6 +2,7 @@
   "name": "my-hooks",
   "version": "0.0.1",
   "description": "react common hook",
+  "homepage": "https://Taurues.github.io/common-react-hooks",
   "license": "MIT",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
