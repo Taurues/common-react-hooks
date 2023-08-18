@@ -68,6 +68,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           ACCESS_TOKEN: ${{ secrets.TOKEN }}
-          branch: build # 打包的内容放到build分支下
+          branch: gh-pages # 打包的内容放到gh-pages分支下
           folder: dist
 
