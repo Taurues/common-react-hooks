@@ -1,5 +1,7 @@
 import { defineConfig } from 'dumi';
 
+const url = '/common-react-hooks/';
+
 export default defineConfig({
   outputPath: './docs-dist',
   themeConfig: {
@@ -8,8 +10,8 @@ export default defineConfig({
   history: {
     type: 'hash',
   },
-  base: '/common-react-hooks/',
-  publicPath: '/common-react-hooks/',
+  base: process.env.NODE_ENV === 'production' ? url : '',
+  publicPath: process.env.NODE_ENV === 'production' ? url : '',
   extraBabelPlugins: [
     [
       'babel-plugin-import',
