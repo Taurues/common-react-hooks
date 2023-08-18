@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_hooks=self.webpackChunkmy_hooks||[]).push([[703],{93703:function(r,n,o){o.r(n),o.d(n,{Foo:function(){return u}});var c=o(67294),s=o(85893),t=function(h){return(0,s.jsx)("h4",{children:h.title})},u=t}}]);
