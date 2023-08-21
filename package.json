@@ -1,9 +1,16 @@
 {
-  "name": "my-hooks",
+  "name": "sake-hooks",
   "version": "0.0.1",
-  "description": "react common hook",
+  "description": "一个个人自定义 React Hooks 库。",
+  "keywords": [
+    "react",
+    "hooks"
+  ],
   "homepage": "https://Taurues.github.io/common-react-hooks",
+  "repository": "https://github.com/Taurues/common-react-hooks",
   "license": "MIT",
+  "author": "Taurues",
+  "main": "index.ts",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
