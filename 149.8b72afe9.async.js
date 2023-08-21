@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_hooks=self.webpackChunkmy_hooks||[]).push([[149],{78149:function(s,u,n){n.r(u);var t=n(67294),e=function(o){(0,t.useEffect)(function(){return function(){o()}},[])};u.default=e}}]);

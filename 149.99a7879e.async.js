@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksake_hooks=self.webpackChunksake_hooks||[]).push([[149],{78149:function(o,u,n){n.r(u);var e=n(67294),s=function(t){(0,e.useEffect)(function(){return function(){t()}},[])};u.default=s}}]);
