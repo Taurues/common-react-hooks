@@ -10,10 +10,6 @@ export default defineConfig({
   history: {
     type: 'hash',
   },
-  mode: 'site',
-  devServer: {
-    port: 1988, // 自定义端口号
-  },
   base: process.env.NODE_ENV === 'production' ? url : '/',
   publicPath: process.env.NODE_ENV === 'production' ? url : '/',
   extraBabelPlugins: [
