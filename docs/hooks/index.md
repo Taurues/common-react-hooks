@@ -1,8 +1,6 @@
 ---
-title: hooks
+title: 简介
 order: 1
-# group:
-#   title: 生命周期 # 注意缩进
 ---
 
 # 简介
